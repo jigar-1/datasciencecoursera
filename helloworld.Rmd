@@ -1,7 +1,5 @@
 ---
-title: "rmarkdown"
-author: "CP-Tadeo"
-date: "7/13/2020"
+title: "rmarkdown""
 output: pdf_document
 ---
 
